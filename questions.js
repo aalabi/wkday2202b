@@ -9,4 +9,9 @@ let questionAnswer = [
     options: ["Buhari", "Tinubu", "Alabi", "John Terry"],
     answer: 2,
   },
+   {
+    question: "Best musician in Nigerian",
+    options: ["Wizkid", "Burna Boy", "Davido", "Ehi"],
+    answer: 0,
+  },
 ];
