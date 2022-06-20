@@ -1,4 +1,4 @@
-let questionAnswer = [
+let questionCollection = [
   {
     question: "What is the firstname of Alabi",
     options: ["Alabi", "Adebayo", "Osagbokan", "Ivie"],
